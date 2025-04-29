@@ -1,0 +1,372 @@
+[
+  {
+    "emp_id": "2001",
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@example.com",
+    "pwd": "password123",
+    "taxes": {
+      "federal_tax_rate": 20,
+      "state_tax_rate": 5,
+      "local_tax_rate": 2
+    },
+    "awards": [
+      {
+        "type": "rsu",
+        "symbols": [
+          {
+            "symbol": "TCS",
+            "award_price": 3000,
+            "granted": 100,
+            "grant_date": "2023-01-01"
+          }
+        ]
+      },
+      {
+        "type": "esop",
+        "symbols": [
+          {
+            "symbol": "INFY",
+            "award_price": 2800,
+            "granted": 120,
+            "grant_date": "2022-03-15",
+            "vested_stocks": 90,
+            "exercisable": 70
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "emp_id": "2002",
+    "name": "Vihaan Patel",
+    "email": "vihaan.patel@example.com",
+    "pwd": "password456",
+    "taxes": {
+      "federal_tax_rate": 22,
+      "state_tax_rate": 6,
+      "local_tax_rate": 3
+    },
+    "awards": [
+      {
+        "type": "rsu",
+        "symbols": [
+          {
+            "symbol": "WIPRO",
+            "award_price": 400,
+            "granted": 80,
+            "grant_date": "2022-12-01"
+          }
+        ]
+      },
+      {
+        "type": "esop",
+        "symbols": [
+          {
+            "symbol": "INFY",
+            "award_price": 1500,
+            "granted": 100,
+            "grant_date": "2021-10-10",
+            "vested_stocks": 85,
+            "exercisable": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "emp_id": "2003",
+    "name": "Ishaan Gupta",
+    "email": "ishaan.gupta@example.com",
+    "pwd": "password789",
+    "taxes": {
+      "federal_tax_rate": 18,
+      "state_tax_rate": 4,
+      "local_tax_rate": 1
+    },
+    "awards": [
+      {
+        "type": "rsu",
+        "symbols": [
+          {
+            "symbol": "HCLTECH",
+            "award_price": 1100,
+            "granted": 70,
+            "grant_date": "2023-03-20"
+          }
+        ]
+      },
+      {
+        "type": "esop",
+        "symbols": [
+          {
+            "symbol": "TCS",
+            "award_price": 3100,
+            "granted": 90,
+            "grant_date": "2022-08-05",
+            "vested_stocks": 75,
+            "exercisable": 55
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "emp_id": "2004",
+    "name": "Aanya Reddy",
+    "email": "aanya.reddy@example.com",
+    "pwd": "password321",
+    "taxes": {
+      "federal_tax_rate": 21,
+      "state_tax_rate": 5,
+      "local_tax_rate": 2
+    },
+    "awards": [
+      {
+        "type": "rsu",
+        "symbols": [
+          {
+            "symbol": "TECHM",
+            "award_price": 1200,
+            "granted": 60,
+            "grant_date": "2023-04-15"
+          }
+        ]
+      },
+      {
+        "type": "esop",
+        "symbols": [
+          {
+            "symbol": "WIPRO",
+            "award_price": 420,
+            "granted": 95,
+            "grant_date": "2021-12-20",
+            "vested_stocks": 80,
+            "exercisable": 65
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "emp_id": "2005",
+    "name": "Reyansh Mehta",
+    "email": "reyansh.mehta@example.com",
+    "pwd": "password654",
+    "taxes": {
+      "federal_tax_rate": 19,
+      "state_tax_rate": 4,
+      "local_tax_rate": 2
+    },
+    "awards": [
+      {
+        "type": "rsu",
+        "symbols": [
+          {
+            "symbol": "INFY",
+            "award_price": 1450,
+            "granted": 90,
+            "grant_date": "2023-02-10"
+          }
+        ]
+      },
+      {
+        "type": "esop",
+        "symbols": [
+          {
+            "symbol": "HCLTECH",
+            "award_price": 1050,
+            "granted": 100,
+            "grant_date": "2022-06-30",
+            "vested_stocks": 85,
+            "exercisable": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "emp_id": "2006",
+    "name": "Myra Kapoor",
+    "email": "myra.kapoor@example.com",
+    "pwd": "password987",
+    "taxes": {
+      "federal_tax_rate": 23,
+      "state_tax_rate": 7,
+      "local_tax_rate": 3
+    },
+    "awards": [
+      {
+        "type": "rsu",
+        "symbols": [
+          {
+            "symbol": "TCS",
+            "award_price": 3050,
+            "granted": 50,
+            "grant_date": "2022-05-01"
+          }
+        ]
+      },
+      {
+        "type": "esop",
+        "symbols": [
+          {
+            "symbol": "TECHM",
+            "award_price": 1250,
+            "granted": 80,
+            "grant_date": "2021-09-25",
+            "vested_stocks": 65,
+            "exercisable": 45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "emp_id": "2007",
+    "name": "Advika Joshi",
+    "email": "advika.joshi@example.com",
+    "pwd": "password111",
+    "taxes": {
+      "federal_tax_rate": 20,
+      "state_tax_rate": 5,
+      "local_tax_rate": 2
+    },
+    "awards": [
+      {
+        "type": "rsu",
+        "symbols": [
+          {
+            "symbol": "INFY",
+            "award_price": 1480,
+            "granted": 110,
+            "grant_date": "2023-06-05"
+          }
+        ]
+      },
+      {
+        "type": "esop",
+        "symbols": [
+          {
+            "symbol": "TCS",
+            "award_price": 2900,
+            "granted": 130,
+            "grant_date": "2022-07-15",
+            "vested_stocks": 110,
+            "exercisable": 90
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "emp_id": "2008",
+    "name": "Aarohi Nair",
+    "email": "aarohi.nair@example.com",
+    "pwd": "password222",
+    "taxes": {
+      "federal_tax_rate": 21,
+      "state_tax_rate": 6,
+      "local_tax_rate": 2
+    },
+    "awards": [
+      {
+        "type": "rsu",
+        "symbols": [
+          {
+            "symbol": "WIPRO",
+            "award_price": 430,
+            "granted": 75,
+            "grant_date": "2023-01-20"
+          }
+        ]
+      },
+      {
+        "type": "esop",
+        "symbols": [
+          {
+            "symbol": "HCLTECH",
+            "award_price": 1080,
+            "granted": 85,
+            "grant_date": "2021-11-15",
+            "vested_stocks": 70,
+            "exercisable": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "emp_id": "2009",
+    "name": "Kabir Rao",
+    "email": "kabir.rao@example.com",
+    "pwd": "password333",
+    "taxes": {
+      "federal_tax_rate": 19,
+      "state_tax_rate": 4,
+      "local_tax_rate": 1
+    },
+    "awards": [
+      {
+        "type": "rsu",
+        "symbols": [
+          {
+            "symbol": "TCS",
+            "award_price": 2980,
+            "granted": 85,
+            "grant_date": "2023-03-30"
+          }
+        ]
+      },
+      {
+        "type": "esop",
+        "symbols": [
+          {
+            "symbol": "INFY",
+            "award_price": 1420,
+            "granted": 90,
+            "grant_date": "2022-04-25",
+            "vested_stocks": 75,
+            "exercisable": 55
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "emp_id": "2010",
+    "name": "Tanishq Desai",
+    "email": "tanishq.desai@example.com",
+    "pwd": "password444",
+    "taxes": {
+      "federal_tax_rate": 22,
+      "state_tax_rate": 5,
+      "local_tax_rate": 3
+    },
+    "awards": [
+      {
+        "type": "rsu",
+        "symbols": [
+          {
+            "symbol": "HCLTECH",
+            "award_price": 1120,
+            "granted": 65,
+            "grant_date": "2022-10-10"
+          }
+        ]
+      },
+      {
+        "type": "esop",
+        "symbols": [
+          {
+            "symbol": "WIPRO",
+            "award_price": 440,
+            "granted": 100,
+            "grant_date": "2021-07-10",
+            "vested_stocks": 85,
+            "exercisable": 65
+          }
+        ]
+      }
+    ]
+  }
+]
